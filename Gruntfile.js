@@ -1,6 +1,8 @@
 // Generated on 2014-06-04 using generator-angular 0.8.0
 'use strict';
 
+grunt.loadNpmTasks('grunt-heroku-deploy');
+
 // # Globbing
 // for performance reasons we're only matching one level down:
 // 'test/spec/{,*/}*.js'
